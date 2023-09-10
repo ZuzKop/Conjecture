@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 412f0600adaa3074590fed9c1f982697
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rawson Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d0619c3a3b4808844a162c728c81489b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

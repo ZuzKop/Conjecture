@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 4ce3c8e5f444b4f48af68bf94169020a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bw Vivant
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a6679cc4b98ca8e49b16cae315514984, type: 3}
+  - {fileID: 12800000, guid: 2bed6ac2c5bef1947955f2373dcc5e0e, type: 3}
+  - {fileID: 12800000, guid: a669acb6278ae05499d0fa60dcf68305, type: 3}
+  - {fileID: 12800000, guid: 796ca459dc87364428c67c504bd64834, type: 3}
+  - {fileID: 12800000, guid: e8e74f3df1ccf684c8da293520cfec4c, type: 3}
+  - {fileID: 12800000, guid: 780214398bda5ef4aa4804edb200150e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
